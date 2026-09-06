@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy - MindGrid</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; color: #2d3748; max-width: 800px; margin: 0 auto; padding: 40px 20px; background-color: #f7fafc; }
+        .container { background: #ffffff; padding: 40px; border-radius: 8px; border: 1px solid #e2e8f0; }
+        h1 { color: #1a202c; border-bottom: 2px solid #4a5568; padding-bottom: 10px; }
+        h2 { color: #2b6cb0; margin-top: 25px; }
+        p, li { font-size: 15px; color: #4a5568; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p><strong>Effective Date:</strong> September 6, 2026</p>
+        <p><strong>Play4 Interactive</strong> ("we," "our," or "us") operates the <strong>MindGrid</strong> mobile application (the "App"). This Privacy Policy explains our practices regarding the collection, use, and disclosure of information when you use our App.</p>
+
+        <h2>1. Information We Collect</h2>
+        <p>MindGrid is designed to provide an enjoyable offline puzzle gaming experience. We do not require users to create an account or provide personal information such as names, email addresses, or phone numbers.</p>
+        <ul>
+            <li><strong>Device Identifiers:</strong> Technical data like IP address or advertising IDs may be processed automatically by integrated SDKs (e.g., Google Play Services / AdMob).</li>
+            <li><strong>Gameplay & Diagnostics:</strong> Anonymous crash logs and diagnostic statistics to improve stability.</li>
+        </ul>
+
+        <h2>2. Third-Party Services</h2>
+        <p>Our App may utilize third-party services that collect information used to identify your device:</p>
+        <ul>
+            <li>Google Play Services</li>
+            <li>Google AdMob</li>
+        </ul>
+
+        <h2>3. Children’s Privacy</h2>
+        <p>Our App does not knowingly collect personally identifiable information from children under the age of 13.</p>
+
+        <h2>4. Contact Us</h2>
+        <p>If you have any questions regarding this Privacy Policy, contact us at:</p>
+        <p><strong>Play4 Interactive</strong><br>Email: play4interactive.official@gmail.com</p>
+    </div>
+</body>
+</html>
